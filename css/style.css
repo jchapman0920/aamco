@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* FUNCTIONS */
-@import "fonts/fonts.css";
+@import "https://jchapman0920.github.io/aamco/fonts/fonts.css";
 /*! VARIABLES */
 /*! GLOBAL */
 html,
@@ -557,7 +557,7 @@ h3 {
   position: absolute;
   left: 0;
   top: 0;
-  background-image: url(../images/frame1-roadline.png);
+  background-image: url(https://jchapman0920.github.io/aamco/images/frame1-roadline.png);
 }
 /*! FRAME 2 */
 #frame2 {
